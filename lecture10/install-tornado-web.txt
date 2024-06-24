@@ -1,0 +1,5 @@
+pip install tornado
+---------------------------------
+create an python environment
+configure vscode debugger and satrt debugging
+localhost:8882/
